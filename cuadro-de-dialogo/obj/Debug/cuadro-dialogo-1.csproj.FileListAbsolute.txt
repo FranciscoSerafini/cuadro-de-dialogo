@@ -1,0 +1,10 @@
+C:\Users\Alumno\source\repos\cuadro-dialogo-1\bin\Debug\cuadro-dialogo-1.exe.config
+C:\Users\Alumno\source\repos\cuadro-dialogo-1\bin\Debug\cuadro-dialogo-1.exe
+C:\Users\Alumno\source\repos\cuadro-dialogo-1\bin\Debug\cuadro-dialogo-1.pdb
+C:\Users\Alumno\source\repos\cuadro-dialogo-1\obj\Debug\cuadro-dialogo-1.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\cuadro-dialogo-1\obj\Debug\cuadro_dialogo_1.Form1.resources
+C:\Users\Alumno\source\repos\cuadro-dialogo-1\obj\Debug\cuadro_dialogo_1.Properties.Resources.resources
+C:\Users\Alumno\source\repos\cuadro-dialogo-1\obj\Debug\cuadro-dialogo-1.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\cuadro-dialogo-1\obj\Debug\cuadro-dialogo-1.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\cuadro-dialogo-1\obj\Debug\cuadro-dialogo-1.exe
+C:\Users\Alumno\source\repos\cuadro-dialogo-1\obj\Debug\cuadro-dialogo-1.pdb
